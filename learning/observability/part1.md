@@ -36,7 +36,7 @@ The action items for this day are:
 
 ## Outcome
 
-The outcome of this day should be a detailed markdown containing everything you learned about Observability.
+The outcome of this day should be a detailed markdown containing everything you have learned about Observability.
 It should contain comparisons to other concepts such as monitoring and visibility.
 In addition, add examples of how Observability is handled and maintained in real practice.
 Make sure you add your interpretation of what is Observability.
