@@ -31,7 +31,7 @@ The action items for this day are:
 3. Write an Markdown explaining what is Observability. In your explanation, give quotes from sources and example of real time observability platforms.
 4. Explain about the types of observability.
 5. In your markdown file, add detailed explanation about Observability concepts and important glossary.
-6. A quick list of products that provide Observability as a product (also add a comparison between them).
+6. Provide a quick list of Observability solutions today (also add a comparison between them).
 7. Provide your take about what is Observability in your opinion and difficulties when developing Observability at scale.
 
 ## Outcome
