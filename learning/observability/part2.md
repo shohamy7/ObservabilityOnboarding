@@ -25,6 +25,7 @@ Here some useful links to start from, you are encourage to search more and updat
 1. Write a detailed presentation about Metrics, Logs & Traces describing their role in Observability system.
 2. Explain in depth a use case for Metrics, Logs & Traces.
 3. Explain the differences between the three of them.
+4. Explain what is log correlation.
 
 ## Outcome
 
