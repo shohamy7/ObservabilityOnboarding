@@ -6,7 +6,6 @@ In this part, you'll dive into important concepts in Observability.
 More specifically, you'll learn in-depth about Logs, Metrics and Traces.
 You'll explore the need for each of them, their use case and the relation between them.
 You'll also learn about how they complete each other and gives us the bigger picture.
-TODO: TBD - add content.
 
 ### Links
 
@@ -23,10 +22,10 @@ Here some useful links to start from, you are encourage to search more and updat
 
 ## Action Items
 
-1. Write a detailed article/presentation (what ever you prefer) about Metrics, Logs & Traces describing their role in Observability system.
+1. Write a detailed presentation about Metrics, Logs & Traces describing their role in Observability system.
 2. Explain in depth a use case for Metrics, Logs & Traces.
 3. Explain the differences between the three of them.
 
 ## Outcome
 
-A presentation/article explaining in-depth the concepts of Logs, Metrics & Traces and their role inside Observability platform.
+A presentation explaining in-depth the concepts of Logs, Metrics & Traces and their role inside Observability platform.

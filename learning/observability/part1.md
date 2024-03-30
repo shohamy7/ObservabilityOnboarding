@@ -6,7 +6,6 @@ In this part you'll learn about Observability basics and concepts.
 Observability is a buzz word used a lot of time in context of monitoring and knowledge of what happening in our system.
 The main goal of today is to unveil the true meaning of Observability.
 You should start getting familiar with Observability concepts, Observability Glossary and more.
-TODO: TBD - add description.
 
 ### Links
 
