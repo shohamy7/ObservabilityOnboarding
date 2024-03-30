@@ -2,15 +2,15 @@
 
 ## Overview
 
-In this part you'll learn about Observability basics and concepts.
-Observability is a buzz word used a lot of time in context of monitoring and knowledge of what happening in our system.
+In this part you'll learn about Observability Basics & Concepts.
+Observability is a buzz word used a lot of time in context of monitoring and knowledge of what is going on in our system.
 The main goal of today is to unveil the true meaning of Observability.
-You should start getting familiar with Observability concepts, Observability Glossary and more.
+You should start getting familiar with Observability Concepts, Observability Glossary and more.
 TODO: TBD - add description.
 
 ### Links
 
-Here some useful links to start from, you are encourage to search more and update this list of links if you think they are good:
+Here are some useful links to start from. We highly encourage you to search more and update this list with more links if you think they are suited:
 
 * <https://newrelic.com/blog/best-practices/what-is-observability>
 * <https://logz.io/learn/observability-tools-platforms-guide>
@@ -39,13 +39,13 @@ The action items for this day are:
      - Where does Data Observability focus in our data pipeline journey?
      - What are 3 goals we can achieve with a good Data Observability?
      - Why is it especially important for our Unit?
-7. In your markdown file, add detailed explanation about Observability concepts and important glossary.
-8. A quick list of products that provide Observability as a product (also add a comparison between them).
-9. Provide your take about what is Observability in your opinion and difficulties when developing Observability at scale.
+5. In your markdown file, add detailed explanation about Observability concepts and important glossary.
+6. Provide a quick list of Observability solutions today (also add a comparison between them).
+7. Provide your take about what is Observability in your opinion and difficulties when developing Observability at scale.
 
 ## Outcome
 
-The outcome of this day should be detailed markdown contains everything you learn about Observability.
+The outcome of this day should be a detailed markdown containing everything you have learned about Observability.
 It should contain comparisons to other concepts such as monitoring and visibility.
 In addition, add examples of how Observability is handled and maintained in real practice.
 Make sure you add your interpretation of what is Observability.
