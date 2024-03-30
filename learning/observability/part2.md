@@ -16,6 +16,7 @@ Here some useful links to start from, you are encourage to search more and updat
 * <https://www.oreilly.com/library/view/distributed-systems-observability/9781492033431/ch04.html>
 * [Chapter 4](../../assets/Distributed-Systems-Observability-eBook.pdf)
 * <https://iamondemand.com/blog/the-3-pillars-of-system-observability-logs-metrics-and-tracing/>
+* https://www.splunk.com/en_us/blog/learn/melt-metrics-events-logs-traces.html
 * <https://grafana.com/docs/tempo/latest/operations/best-practices/>
 * <https://codersociety.com/blog/articles/metrics-tracing-logging>
 * <https://logz.io/blog/logs-or-metrics/>
