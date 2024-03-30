@@ -18,8 +18,10 @@ Here are some useful links to start from. We highly encourage you to search more
 * <https://opentelemetry.io/docs/concepts/observability-primer>
 * <https://www.o11y.wiki/#/>
 * <https://www.dynatrace.com/news/blog/what-is-observability-2/>
+* <https://www.youtube.com/watch?v=j8X0xiHTW54>
 * <https://towardsdatascience.com/the-three-types-of-observability-your-system-needs-a3e7f6ae4803>
 * <https://www.simform.com/blog/three-types-of-observability/>
+* <https://www.splunk.com/en_us/blog/learn/data-observability.html>
 * <https://www.strongdm.com/observability>
 
 ### Action Items
@@ -30,6 +32,13 @@ The action items for this day are:
 2. Learn about how Observability takes practice in real world.
 3. Write an Markdown explaining what is Observability. In your explanation, give quotes from sources and example of real time observability platforms.
 4. Explain about the types of observability.
+5. What is Data Observability?
+     - Elaborate more on this concept.
+     - What are the 5 pillars of Data Observability?
+     - What are the components that help us achieve this concept?
+     - Where does Data Observability focus in our data pipeline journey?
+     - What are 3 goals we can achieve with a good Data Observability?
+     - Why is it especially important for our Unit?
 5. In your markdown file, add detailed explanation about Observability concepts and important glossary.
 6. Provide a quick list of Observability solutions today (also add a comparison between them).
 7. Provide your take about what is Observability in your opinion and difficulties when developing Observability at scale.
