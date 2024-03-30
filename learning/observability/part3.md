@@ -7,10 +7,10 @@ Observability gives us a lot of insight and capabilities about our system.
 A lot of advance feature that might look complex, becoming easier today through integrating Observability.
 To name a few:
 
-    * SLO
-    * SLI
-    * RUM
-    * APM
+* SLO
+* SLI
+* RUM
+* APM
 
 ### Links
 
