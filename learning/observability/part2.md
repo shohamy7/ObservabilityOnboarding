@@ -5,11 +5,11 @@
 In this part, you'll dive into important concepts in Observability.
 More specifically, you'll learn in-depth about Logs, Metrics and Traces.
 You'll explore the need for each of them, their use case and the relation between them.
-You'll also learn about how they complete each other and gives us the bigger picture.
+You'll also learn about how they complete each other and grant us the bigger picture.
 
 ### Links
 
-Here some useful links to start from, you are encourage to search more and update this list of links if you think they are good:
+Here are some useful links to start from, Yet again, you are encouraged to search more and update this list of links if you think they are good:
 
 * <https://opentelemetry.io/docs/concepts/signals>
 * <https://sematext.com/glossary/three-pillars-of-observability/>
@@ -23,8 +23,8 @@ Here some useful links to start from, you are encourage to search more and updat
 
 ## Action Items
 
-1. Write a detailed presentation about Metrics, Logs & Traces describing their role in Observability system.
-2. Explain in depth a use case for Metrics, Logs & Traces.
+1. Write a detailed presentation about Metrics, Logs & Traces describing their role in an "observable" system.
+2. Explain in depth the use case for Metrics, Logs & Traces.
 3. Explain the differences between the three of them.
 4. Explain what is log correlation.
 
