@@ -2,11 +2,10 @@
 
 ## Goals
 
-In order to stay focus with our targets, we'll specify the goals we would like to.
-In this chapter you'll learn about Observability from the basics to advance features.
-There will be some high level question you'll need to make sure you understand before moving on the next chapter.
+In this chapter you'll go over Observability basics followed by more advanced features and insights.
+There will be some high level questions you'll need to make sure you understand before moving on to the next chapter.
 
 ## Schedule
 
-This chapter will be 5 days MAX.
+This chapter will last 5 days MAX.
 Make sure to handle your time accordingly.
