@@ -21,14 +21,14 @@ Here are some useful links to start from. We highly encourage you to search more
 You should have the understanding of what is exactly OpenTelemetry and why OpenTelemetry is important.
 Also, you should be able to answer the following questions:
 
-1. History before OpenTelemetry
+1. Elaborate on the history before OpenTelemetry
 2. What is OpenTelemetry (aka OTEL)?
-3. How OpenTelemetry relates to Observability?
-4. How OpenTelemetry revolutionized the monitoring/observability world?
+3. How does OpenTelemetry relate to Observability?
+4. How did OpenTelemetry revolutionize the monitoring/observability world?
 5. What are signals?
-6. Jaeger vs OpenTelemetry? How they relate?
-7. Pick 3 OpenTelemetry concept and explain about them.
+6. Jaeger vs OpenTelemetry? How do they relate?
+7. Pick 3 OpenTelemetry concepts and explain them.
 
 ## Outcome
 
-Write an article answering the above question and adding your take about OpenTelemetry, pros & cons.
+Write an article answering the above questions, adding your take about OpenTelemetry, pros & cons.
