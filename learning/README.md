@@ -1,8 +1,8 @@
 # Intro
 
-Welcome to ObservabiliTeam! We're thrilled to have you as a part of the team.
+Welcome to ObservabilityTeam! We're thrilled to have you as a part of the team.
 You will start your journey by learning about Observability as a concept, and you'll slowly dive into
-advance features and concept in the Observability and Monitoring ecosystem.
+advanced features and concepts in the Observability and Monitoring ecosystem.
 
 ## Note
 
