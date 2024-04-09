@@ -24,7 +24,7 @@ In the end of this part you should be able to answer the following questions:
 3. Give 2 alternatives to OTLP and explain them in detail.
 4. What is exactly OTLP specification - explain.
 5. Write a short paragraph explaining about OpenTelemetry specification
-6. What are semantic conventions specification in OpenTelemetry and why are they needed?
+6. What are the semantic conventions specifications in OpenTelemetry and why are they needed?
 7. List some of the semantic conventions.
 8. What is Open Agent Management protocol? What is its use case?
 
