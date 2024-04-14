@@ -2,9 +2,9 @@
 
 ## Overview
 
-In this part you'll learn about learn about the OpenTelemetry specifications.
+In this part you'll learn about the OpenTelemetry specifications.
 At the end of this part, you'll know in detail about the OpenTelemetry specification.
-Especially, the OTLP protocol and other semantic conventions set by OpenTelemetry.
+Especially, you'll know the OTLP protocol and other semantic conventions set by OpenTelemetry.
 
 ### Links
 
@@ -20,13 +20,13 @@ Here are some useful links to start from. We highly encourage you to search more
 In the end of this part you should be able to answer the following questions:
 
 1. What is OTLP?
-2. Why OTLP is needed?
-3. Give 2 example of alternative to OTLP and explain them in detail.
+2. Why is OTLP needed?
+3. Give 2 alternatives to OTLP and explain them in detail.
 4. What is exactly OTLP specification - explain.
 5. Write a short paragraph explaining about OpenTelemetry specification
-6. What are semantic conventions specification in OpenTelemetry and why they needed?
-7. Give a couple of example of semantic conventions.
-8. What is Open Agent Management protocol? What its use case?
+6. What are the semantic conventions specifications in OpenTelemetry and why are they needed?
+7. List some of the semantic conventions.
+8. What is Open Agent Management protocol? What is its use case?
 
 ## Outcome
 
