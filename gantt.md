@@ -106,7 +106,9 @@ We'll test their knowledge about Tempo architecture.
 Afterwards, they will deploy a tempo cluster over K8s using the helm chart and later they will use this Tempo in the final exercise.
 We may add more demands as the exercise go to modify the tempo installation in order to support higher scale.
 Tempo part should be no more than 6-8 days!
-In APM part - Oren is responsible to build and estimate how much time it will take.
+In the Elastic APM part they will learn what is an apmserver and how we deploy it using elastic agents. You will learn why we use this method and what are the advantages. 
+After we test their knowledge of how the above topics work, we will let them deploy and try out these tools for themselves.
+ElasticAPM part should take between 3-4 days.
 
 ## Final exercise
 
